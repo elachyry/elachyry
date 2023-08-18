@@ -1,4 +1,4 @@
-![Mobile Developer](https://github.com/elachyry/elachyry/blob/master/Linkedin-cover.png)
+![Mobile Developer](https://github.com/elachyry/elachyry/blob/master/2.png)
 
 ### Hi there 👋, I'm Mohammed Elachyry
 #### Mobile Developer
