@@ -34,7 +34,7 @@ I'm a Junior 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who b
 
 ## Fun Fact
 
-I once traveled across three countries in a single day to capture a rare celestial event through my camera lens.
+I once traveled to a remote village to escape light pollution and capture the beauty of the Milky Way through my camera lens.
 
 Looking forward to connecting with you and exploring the world of mobile development, photography, and technology together! 🚀📸
 
