@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mohammed
 #### Mobile Developer
-![Mobile Developer](https://media.licdn.com/dms/image/D4E16AQECyGqOZskuEw/profile-displaybackgroundimage-shrink_350_1400/0/1692286419869?e=1697673600&v=beta&t=8wz4WGr8Td3WHkQ67Ld4b3-4PmbFpOOSNpTMNCnk-Hs)
+![Mobile Developer]([https://media.licdn.com/dms/image/D4E16AQECyGqOZskuEw/profile-displaybackgroundimage-shrink_350_1400/0/1692286419869?e=1697673600&v=beta&t=8wz4WGr8Td3WHkQ67Ld4b3-4PmbFpOOSNpTMNCnk-Hs](https://github.com/elachyry/elachyry/blob/master/Linkedin-cover.png))
 
 I'm 𝗠𝗼𝗵𝗮𝗺𝗺𝗲𝗱 𝗘𝗹𝗮𝗰𝗵𝘆𝗿𝘆, a passionate 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with a keen eye for innovation and a heart for captivating 𝗽𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆.
 
