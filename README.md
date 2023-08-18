@@ -26,6 +26,12 @@ I'm a Junior 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who b
 
 GitHub Repository: [Food Delivery Express Mobile App Link](https://github.com/elachyry/food-delivery)
 
+### Bac En Poche Mobile App
+
+I developed a mobile application that enables Baccalaureate students to calculate their GPA and provides access to national exams for all branches, helping students succeed academically.
+
+Demo: [Bac En Poche Mobile App Demo Link](https://play.google.com/store/apps/details?id=com.elachyry.app.ratecalculator&pcampaignid=web_share)
+
 ### Library Management Desktop App
 
 I designed and built a desktop application for efficient library management, enabling librarians to keep track of books, borrowers, and more.
@@ -44,14 +50,15 @@ I created a Telemedicine web application that allows users to schedule appointme
 
 GitHub Repository: [Telemedicine Web App Repository Link](https://github.com/elachyry/TelemedicineApp)
 
-### Bac En Poche Mobile App
+### Taxis Management Desktop App
 
-I developed a mobile application that enables Baccalaureate students to calculate their GPA and provides access to national exams for all branches, helping students succeed academically.
+Designed and developed a desktop application for efficient taxi management, providing tools for managing drivers, managing cars, managing Technical checks, and enhancing user experience.
 
-Demo: [Bac En Poche Mobile App Demo Link](https://play.google.com/store/apps/details?id=com.elachyry.app.ratecalculator&pcampaignid=web_share)
+GitHub Repository: [Taxis Management Desktop App Repository Link](https://github.com/elachyry/TaxisManagment)
 
-- 🔭 I’m currently working on my own project 
-- 🌱 I’m currently learning more about Flutter 
+## Connect with Me
+
+Let's chat about mobile app development, web applications, desktop applications, share photography tips, or discuss tech stacks. You can reach me through:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/elachyry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammed-elachyry/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammed.elachyry)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/el_achyry/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/el_achyry)  
