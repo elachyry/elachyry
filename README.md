@@ -20,10 +20,35 @@ I'm a Junior 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who b
 
 ## Projects
 
-### Food Delivery Express
+### Food Delivery Express Mobile App
 
 𝗙𝗼𝗼𝗱 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝘆 𝗘𝘅𝗽𝗿𝗲𝘀𝘀 is a food delivery app that I developed, it provides a user-friendly interface for customers to browse menus, place orders, and track deliveries in real-time. It also offers restaurants a streamlined platform to manage orders, update menus, and enhance customer satisfaction.
 
+GitHub Repository: [Food Delivery Express Mobile App Link](https://github.com/elachyry/food-delivery)
+
+### Library Management Desktop App
+
+I designed and built a desktop application for efficient library management, enabling librarians to keep track of books, borrowers, and more.
+
+GitHub Repository: [Library Management Desktop App Repository Link](https://github.com/elachyry/LibraryManagement)
+
+### Web Parc Management Application
+
+I developed a web application to facilitate the management of Dakhla Regional Council tasks within the transport and logistics department.
+
+GitHub Repository: [Web Parc Management App Repository Link](https://github.com/elachyry/ParcManagment)
+
+### Telemedicine Web App
+
+I created a Telemedicine web application that allows users to schedule appointments with their doctors online, providing a convenient and efficient way to access medical care remotely.
+
+GitHub Repository: [Telemedicine Web App Repository Link](https://github.com/elachyry/TelemedicineApp)
+
+### Bac En Poche Mobile App
+
+I developed a mobile application that enables Baccalaureate students to calculate their GPA and provides access to national exams for all branches, helping students succeed academically.
+
+Demo: [Bac En Poche Mobile App Demo Link](https://play.google.com/store/apps/details?id=com.elachyry.app.ratecalculator&pcampaignid=web_share)
 
 - 🔭 I’m currently working on my own project 
 - 🌱 I’m currently learning more about Flutter 
